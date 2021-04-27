@@ -116,7 +116,7 @@ echo "Es obligatorio rellenar todos los campos";
 
 <h3> Notas:</h3>
 1) La tabla en la cual desees importar datos debe soportar archivos .csv <br>
-2) Si tu archivo csv no esta separado por comas entonces modifica mysqli_query<br>
-3) Si cada fila o renglón no termina cuando se salte una linea (\n) entonces modifica mysqli_query<br>
+2) Si tu archivo csv no esta separado por comas entonces modifica mysqli_query del código fuente<br>
+3) Si cada fila o renglón no termina cuando se salte una linea (\n) entonces modifica mysqli_query del código fuente<br>
 
 </html>
