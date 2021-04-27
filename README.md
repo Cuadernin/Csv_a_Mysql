@@ -1,5 +1,5 @@
 # Csv a MySQL 
-Importa GRANDES archivos de CSV de forma muy rápida.
+Importa GRANDES archivos de CSV de forma muy rápida con este script de PHP.
 
 ## Información 📄
 
