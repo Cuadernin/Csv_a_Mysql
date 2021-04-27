@@ -7,7 +7,7 @@ Script de php basado en el archivo del usuario [sanathp](https://github.com/sana
 
 ## Instrucciones 📋
 
-1. Antes de usar el Script debes verificar que tienes activado la variable _local_infile_. Sino escribe:
+1. Antes de usar el Script debes verificar que tienes activada la variable _local_infile_. Sino escribe:
 ```
 SET GLOBAL local_infile = 1;
 ```
