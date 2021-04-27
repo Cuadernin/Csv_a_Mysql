@@ -6,8 +6,8 @@
 </head>
 <body>
 <br>
-<h1> CSV to Mysql </h1>
-<p> Este script de Php importará archivos CSV muy grandes a la base de datos MYSQL de manera rápida</p>
+<h1> CSV a Mysql en segundos </h1>
+<p> Este script de Php importará archivos CSV muy grandes a una base de datos MYSQL de manera rápida</p>
 
 </br>
 <form class="form-horizontal"action="csv2sql.php" method="post">
